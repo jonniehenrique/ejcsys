@@ -9,6 +9,9 @@ SISTEMA DE GERENCIAMENTO DE ENCONTRO DE JOVENS COM CRISTO
 - EQUIPE
  -- Nome
 
+- ENCONTRO
+ -- Data inicio, data fim, ano, tema, música
+
 -- ENCONTREIROS
  -- Nome, email, telefone, endereço, paróquia matriz, talentos
 

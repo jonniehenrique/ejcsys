@@ -2,9 +2,10 @@
 
 <div class="container">
 
-	<h3 class="label is-large"> Cadastro de paróquia </h3><br>
-
 	<form action="#" class="form">
+
+		<h3 class="label is-large"> Cadastro de paróquia </h3><br>
+
 		<div class="columns">
 
 			<div class="column is-6">

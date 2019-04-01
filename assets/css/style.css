@@ -19,6 +19,15 @@
 
 /* form */
 
+.form {
+	padding: 0 20px;
+}
+
+.form > h3 {
+	border-left: 5px solid #000;
+	padding-left: 10px;
+}
+
 .form-footer {
 	padding: 20px 0;
 	border-top: #ddd solid 2px;

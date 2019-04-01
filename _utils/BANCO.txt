@@ -1,0 +1,18 @@
+SISTEMA DE GERENCIAMENTO DE ENCONTRO DE JOVENS COM CRISTO
+
+- PARÓQUIA
+ -- Nome, email, login, senha, telefone, padre responsável, endereço
+
+- USUÁRIO
+ -- Nome, email, login, senha, telefone, função
+
+- EQUIPE
+ -- Nome
+
+-- ENCONTREIROS
+ -- Nome, email, telefone, endereço, paróquia matriz, talentos
+
+- ENCONTRO 
+ -- Tema, música, data ínicio, data fim, ano
+
+ -  

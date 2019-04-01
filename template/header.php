@@ -27,7 +27,44 @@
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat">
 
     <link rel="stylesheet" href="<?php echo APP_URL . 'assets/css/bulma.css' ?>">
+    <link rel="stylesheet" href="<?php echo APP_URL . 'assets/css/style.css' ?>">
 </head>
 <body>
 
-    
+    <header id="header">
+        <div class="container">
+            <nav class="navbar" role="navigation" aria-label="main navigation">
+                <div class="navbar-brand">
+                    <a class="navbar-item" href="https://bulma.io">
+                        EJCSys
+                    </a>
+
+                    <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
+                      <span aria-hidden="true"></span>
+                      <span aria-hidden="true"></span>
+                      <span aria-hidden="true"></span>
+                  </a>
+                </div>
+
+                <div id="navbarBasicExample" class="navbar-menu">
+                    <div class="navbar-end">
+                        <div class="navbar-item">
+                            <div class="buttons">
+                                <a href="<?php echo APP_URL . 'login'; ?>" class="button is-primary">
+                                    Log in
+                                </a>
+                                <a href="<?php echo APP_URL . 'cadastro'; ?> "class="button is-light">
+                                    <strong>Cadastro</strong>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </nav>
+        </div>
+</header>
+
+<main id="main">
+
+

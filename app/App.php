@@ -2,7 +2,7 @@
 
 /* ALTERAR APP_URL A PARTIR DO AMBIENTE */
 
-const APP_URL = 'http://localhost/selfiestorejp/selfie-site/';
+const APP_URL = 'http://localhost/ejcsys/';
 
 require_once 'Model.php';
 
